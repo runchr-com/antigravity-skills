@@ -6,10 +6,10 @@
 
 ## ⚡ 빠른 탐색
 
-| [📓 기획 가이드] (./docs/ko/planning.md) | [🎨 프론트엔드] (./docs/ko/frontend.md) | [🐍 백엔드] (./docs/ko/backend.md) | [🛡️ 보안] (./docs/ko/security.md) |
+| [📓 기획 가이드](./docs/ko/planning.md) | [🎨 프론트엔드](./docs/ko/frontend.md) | [🐍 백엔드](./docs/ko/backend.md) | [🛡️ 보안](./docs/ko/security.md) |
 | :---: | :---: | :---: | :---: |
-| [🧞 에이전트] (./docs/ko/agents.md) | [🧪 QA 테스트] (./docs/ko/qa_testing.md) | [📦 스킬 번들] (./docs/ko/bundles.md) | [🌊 워크플로우] (./docs/ko/workflows.md) |
-| [🌐 English Version] (./README.md) | 🌐 [전체 스킬 카탈로그](./docs/ko/all_skills_directory.md) | | |
+| [🧞 에이전트](./docs/ko/agents.md) | [🧪 QA 테스트](./docs/ko/qa_testing.md) | [📦 스킬 번들](./docs/ko/bundles.md) | [🌊 워크플로우](./docs/ko/workflows.md) |
+| [🌐 English Version](./README.md) | 🌐 [전체 스킬 카탈로그](./docs/ko/all_skills_directory.md) | | |
 
 ---
 

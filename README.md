@@ -6,10 +6,10 @@ Welcome to the **Official Guide & Catalog** for the [Antigravity Awesome Skills]
 
 ## ⚡ Quick Navigation
 
-| [📓 PLANNING] (./docs/en/planning.md) | [🎨 FRONTEND] (./docs/en/frontend.md) | [🐍 BACKEND] (./docs/en/backend.md) | [🛡️ SECURITY] (./docs/en/security.md) |
+| [📓 PLANNING](./docs/en/planning.md) | [🎨 FRONTEND](./docs/en/frontend.md) | [🐍 BACKEND](./docs/en/backend.md) | [🛡️ SECURITY](./docs/en/security.md) |
 | :---: | :---: | :---: | :---: |
-| [🧞 AGENTS] (./docs/en/agents.md) | [🧪 QA] (./docs/en/qa_testing.md) | [📦 BUNDLES] (./docs/en/bundles.md) | [🌊 WORKFLOWS] (./docs/en/workflows.md) |
-| [🇰🇷 한국어 버전] (./README_KO.md) | 🌐 [ALL SKILLS CATALOG](./docs/en/all_skills_directory.md) | | |
+| [🧞 AGENTS](./docs/en/agents.md) | [🧪 QA](./docs/en/qa_testing.md) | [📦 BUNDLES](./docs/en/bundles.md) | [🌊 WORKFLOWS](./docs/en/workflows.md) |
+| [🇰🇷 한국어 버전](./README_KO.md) | 🌐 [ALL SKILLS CATALOG](./docs/en/all_skills_directory.md) | | |
 
 ---
 
