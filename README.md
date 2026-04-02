@@ -1,6 +1,6 @@
 # 🚀 Antigravity Awesome Skills Hub
 
-Welcome to the **Official Guide & Catalog** for the [Antigravity Awesome Skills](https://github.com/sickn33/antigravity-awesome-skills) library. With over 1,300 tools and playbooks available, this repository serves as your ultimate encyclopedia. It categorizes, explains, and provides practical prompt examples for the most essential skills to ensure you can easily find exactly what you need for **every phase of your project, from planning to security**.
+Welcome to the **Guide Book** for the [Antigravity Awesome Skills](https://github.com/sickn33/antigravity-awesome-skills) library. With over 1,300 tools and playbooks available, this repository serves as your ultimate encyclopedia. It categorizes, explains, and provides practical prompt examples for the most essential skills to ensure you can easily find exactly what you need for **every phase of your project, from planning to security**.
 
 ---
 
