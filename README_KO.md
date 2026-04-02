@@ -1,6 +1,6 @@
 # 🚀 Antigravity Awesome Skills Hub (한글 가이드)
 
-[Antigravity Awesome Skills](https://github.com/sickn33/antigravity-awesome-skills) 라이브러리의 *가이드 북**에 오신 것을 환영합니다. 1,300개가 넘는 방대한 AI 스킬과 플레이북 중에서 길을 잃지 않도록, 각 프로젝트 단계(**기획, 디자인, 개발부터 보안, 테스트까지**)에 맞춰 꼭 필요한 핵심 스킬들의 사용 목적과 구체적인 프롬프트 예시를 명확하게 설명하고 안내해 드리는 지침서입니다.
+[Antigravity Awesome Skills](https://github.com/sickn33/antigravity-awesome-skills) 라이브러리의 가이드 북에 오신 것을 환영합니다. 1,300개가 넘는 방대한 AI 스킬과 플레이북 중에서 길을 잃지 않도록, 각 프로젝트 단계(**기획, 디자인, 개발부터 보안, 테스트까지**)에 맞춰 꼭 필요한 핵심 스킬들의 사용 목적과 구체적인 프롬프트 예시를 명확하게 설명하고 안내해 드리는 지침서입니다.
 
 ---
 
